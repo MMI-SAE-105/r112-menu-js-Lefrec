@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Vincent
+- prénom : Paolo
+- URL Netlify : https://r112-menu-js-lefrec.netlify.app
 
 # Travail
 

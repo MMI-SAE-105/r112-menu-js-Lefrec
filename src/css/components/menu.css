@@ -29,11 +29,15 @@ body {
 
 .menu-btn {
   position: relative;
+  color: brown;
   z-index: 3;
   transition: all 0.4s ease-in-out;
 }
 
-
 .menu-btn[aria-expanded="true"] {
-  transform: rotate(90deg);
+  transform: translateX(50);
+}
+
+a {
+  color: brown;
 }

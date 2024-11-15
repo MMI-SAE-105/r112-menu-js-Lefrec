@@ -1,7 +1,11 @@
+body {
+  background-color: rgba(190, 233, 179, 0.477);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 .menu {
   position: fixed;
-  background-color: rgb(255, 119, 0);
+  background-color: rgb(190, 233, 179);
   display: flex;
   top: 0;
   height: 200%;
